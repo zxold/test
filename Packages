@@ -1,0 +1,25 @@
+Package: com.rocketforig.new
+Version: 3.5.5
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
+Filename: ./debs/rocketforig.deb
+Size: 5851158
+MD5sum: 9f5c0da8e73b9b023a2611d58fe5b853
+Section: Tweaks
+Description: posts and view stories anonymously and do much more
+Author: Majd Alfhaily <support@getrocketapp.io>
+Depiction: https://karyx.github.io/repo/depictions/?p=com.rocketforig.new
+Name: Rocket for Instagram
+
+Package: com.floatydock.new
+Version: 1.5
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.chpwn.iconsupport, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/floatydock.deb
+Size: 70024
+MD5sum: db13005a1d18ce08fd0eb0383072c1ff
+Section: Tweaks
+Description: Floatydock 
+Author: Majd Alfhaily <support@getrocketapp.io>
+Depiction: https://karyx.github.io/repo/depictions/?p=com.floatydock.new
+Name: FloatyDock

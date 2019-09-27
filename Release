@@ -1,0 +1,8 @@
+Origin: karyx
+Label: karyx repo
+Suite: stable
+Version: 1.0
+Codename: karyxrepo
+Architectures: iphoneos-arm
+Components: main
+Description: karyx - a cydia repo
