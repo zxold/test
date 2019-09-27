@@ -8,7 +8,7 @@ MD5sum: 9f5c0da8e73b9b023a2611d58fe5b853
 Section: Tweaks
 Description: posts and view stories anonymously and do much more
 Author: Majd Alfhaily <support@getrocketapp.io>
-Depiction: https://karyx.github.io/repo/depictions/?p=com.rocketforig.new
+Depiction: https://zxold.github.io/test/depictions/?p=com.rocketforig.new
 Name: Rocket for Instagram
 
 Package: com.floatydock.new
@@ -21,5 +21,5 @@ MD5sum: db13005a1d18ce08fd0eb0383072c1ff
 Section: Tweaks
 Description: Floatydock 
 Author: Majd Alfhaily <support@getrocketapp.io>
-Depiction: https://karyx.github.io/repo/depictions/?p=com.floatydock.new
+Depiction: https://zxold.github.io/test/depictions/?p=com.floatydock.new
 Name: FloatyDock
